@@ -19,10 +19,8 @@
 				<option value="pizza">Pizza</option>
 			</select>
 
-<!--libellé temps-->
+etc à voir dans 1er commit.
 
-		<label for="temps">Choix de votre date de réservation</label> : <input type="date" name="temps">
-
-		<input type="submit" name="Chercher" value="Envoyer" />
-
-	</section>
+Pour flex css
+<section id="presentation2"
+		<div id="conteneur"><div class="element1"><a href="africain.html"><h4>Africain</h4><img src="images/categorie/africain.jpg" width="315" height="215" alt="cuisine_africaine" /></a></div>
